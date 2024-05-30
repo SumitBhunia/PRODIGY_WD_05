@@ -161,12 +161,12 @@ overflow: hidden;
 .weather-details .humidity{
     padding-left: 20px;
     justify-content: flex-start;
-    color: black;
+    color: #ffffff;
 }
 .weather-details .wind{
     padding-right: 20px;
     justify-content: flex-end;
-    color: black;
+    color: #ffffff;
 }
 .weather-details i{
     font-size: 56px;
